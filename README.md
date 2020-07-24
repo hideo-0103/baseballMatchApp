@@ -1,24 +1,24 @@
 # README
 
-### 登録機能実装
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
- - ユーザー登録
-  - ユーザーテーブル作成
-  - active_hashを用いて都道府県テーブル作成
- - チーム登録
-  - チームテーブル作成
-  - 中間テーブル作成
- 
-### マッチング機能
+Things you may want to cover:
 
-- チームから助っ人募集
-- 募集テーブル作成
-- 募集機能作成
-- 募集者,日時,場所,希望ポジション,年齢,経歴,服装,参加費用,交通費,募集人数,募集状態,閲覧数,
-- 応募機能
-- 個人から助っ人募集
-- 対戦マッチング
+* Ruby version
 
-### チャット機能実装
+* System dependencies
 
-テスト
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
